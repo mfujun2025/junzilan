@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+Disallow: /_content/
+
+Sitemap: https://xn--95qv8dfxj.cn/sitemap.xml
