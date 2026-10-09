@@ -8,6 +8,7 @@ SITE = os.path.dirname(HERE)
 DOMAIN = "https://xn--95qv8dfxj.cn"
 
 NAV = [
+    ("首页", "/"),
     ("品种图鉴", "/pinzhong/"),
     ("栽培养护", "/yanghu/"),
     ("文章总览", "/articles/"),
