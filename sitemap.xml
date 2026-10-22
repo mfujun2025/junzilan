@@ -426,4 +426,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://xn--95qv8dfxj.cn/articles/chunji-yanghu/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn--95qv8dfxj.cn/articles/bukaihua-yuanyin/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://xn--95qv8dfxj.cn/articles/wanggou-yunshu/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
