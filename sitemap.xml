@@ -660,4 +660,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-</urlset>
+<url>
+    <loc>https://xn--95qv8dfxj.cn/articles/yecha-fanzhi/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url><url>
+    <loc>https://xn--95qv8dfxj.cn/articles/zhouye-wencha/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url><url>
+    <loc>https://xn--95qv8dfxj.cn/articles/huahou-xiujian/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url></urlset>
